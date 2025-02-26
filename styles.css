@@ -2,8 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --branco: #e7e7e7;
+    --branco: #ffffff;
+    
 }
+
 
 body {
     font-size: 1rem;
@@ -57,6 +59,7 @@ section {
 
 
 .botao-inicio {
+    color: #000000;
     background-color: var(--branco);
     border-radius: 10px;
     border:none;
