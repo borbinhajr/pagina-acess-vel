@@ -81,8 +81,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/10454905.jpg') top right no-repeat,
-        url('img/10454905.jpg') bottom left no-repeat;
+    background: url('img/download.jpeg') top right no-repeat,
+        url('img/download.jpeg') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -101,16 +101,16 @@ h2 {
     font-family: 'Lemon', serif;
     font-size: 2.5em;
     font-style: normal;
-    color: var(--laranja-claro);
+    color: var(--preto);
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #ffffff;
 
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/download.jpeg') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
